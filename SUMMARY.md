@@ -1,0 +1,70 @@
+# Table of contents
+
+## Introduction
+
+* [Introduction](README.md)
+* [The Power of Self-Custody](introduction/the-power-of-self-custody.md)
+* [Benefits of Non-Custodial Wallets](introduction/benefits-of-non-custodial-wallets.md)
+* [Digital Wallet Best Practices](introduction/digital-wallet-best-practices.md)
+* [Solflare Guards](introduction/solflare-guards.md)
+* [Bigger Picture](introduction/bigger-picture.md)
+
+## Onboarding
+
+* [Mobile](onboarding/mobile/README.md)
+  * [Generate a New Wallet](onboarding/mobile/generate-a-new-wallet.md)
+  * [Connect a Ledger Wallet](onboarding/mobile/connect-a-ledger-wallet.md)
+  * [Import any Solana Wallet on solfare](onboarding/mobile/import-any-solana-wallet-on-solfare.md)
+* [Web App & Extension](onboarding/web-app-and-extension/README.md)
+  * [Generate a New Wallet](onboarding/web-app-and-extension/generate-a-new-wallet.md)
+  * [Import Your Ledger Device](onboarding/web-app-and-extension/import-your-ledger-device.md)
+  * [Import Your Keystone Device](onboarding/web-app-and-extension/import-your-keystone-device.md)
+  * [Import any Solana Wallet](onboarding/web-app-and-extension/import-any-solana-wallet.md)
+  * [MetaMask Snap](onboarding/web-app-and-extension/metamask-snap.md)
+
+***
+
+* [Next Steps](next-steps.md)
+
+## Integrations
+
+* [Integrate Solflare](integrations/integrate-solflare/README.md)
+  * [MetaMask](integrations/integrate-solflare/metamask.md)
+  * [Using the Solana Wallet Adapter](integrations/integrate-solflare/using-the-solana-wallet-adapter.md)
+  * [Solflare Wallet SDK](integrations/integrate-solflare/solflare-wallet-sdk.md)
+* [Profile Picture Protocol](integrations/profile-picture-protocol/README.md)
+  * [Get a Wallet's Profile Picture](integrations/profile-picture-protocol/get-a-wallets-profile-picture.md)
+  * [Set NFT as Profile Picture](integrations/profile-picture-protocol/set-nft-as-profile-picture.md)
+  * [Remove a Profile Picture](integrations/profile-picture-protocol/remove-a-profile-picture.md)
+* [Solflare Notifications](integrations/solflare-notifications/README.md)
+  * [Sending Notifications](integrations/solflare-notifications/sending-notifications.md)
+  * [User's Perspective](integrations/solflare-notifications/users-perspective/README.md)
+    * [Notification Center](integrations/solflare-notifications/users-perspective/notification-center.md)
+    * [Receiving Notifications](integrations/solflare-notifications/users-perspective/receiving-notifications.md)
+    * [Subscription Management](integrations/solflare-notifications/users-perspective/subscription-management.md)
+  * [API Endpoints](integrations/solflare-notifications/api-endpoints/README.md)
+    * [Broadcast Endpoint](integrations/solflare-notifications/api-endpoints/broadcast-endpoint.md)
+    * [Unicast Endpoint](integrations/solflare-notifications/api-endpoints/unicast-endpoint.md)
+    * [List Casts Endpoint](integrations/solflare-notifications/api-endpoints/list-casts-endpoint.md)
+    * [View Cast Endpoint](integrations/solflare-notifications/api-endpoints/view-cast-endpoint.md)
+    * [Check Public Key Subscription Status for Domain](integrations/solflare-notifications/api-endpoints/check-public-key-subscription-status-for-domain.md)
+* [NFT Standard](integrations/nft-standard/README.md)
+  * [URI JSON Schema](integrations/nft-standard/uri-json-schema.md)
+  * [CDN hosted files](integrations/nft-standard/cdn-hosted-files.md)
+  * [Collections](integrations/nft-standard/collections.md)
+  * [Additional Attributes Specification](integrations/nft-standard/additional-attributes-specification.md)
+  * [Order of JSON Fields](integrations/nft-standard/order-of-json-fields.md)
+* [Deeplinks](integrations/deeplinks/README.md)
+  * [Provider Methods](integrations/deeplinks/provider-methods/README.md)
+    * [Connect](integrations/deeplinks/provider-methods/connect.md)
+    * [Disconnect](integrations/deeplinks/provider-methods/disconnect.md)
+    * [SignAndSendTransaction](integrations/deeplinks/provider-methods/signandsendtransaction.md)
+    * [SignAllTransactions](integrations/deeplinks/provider-methods/signalltransactions.md)
+    * [SignTransaction](integrations/deeplinks/provider-methods/signtransaction.md)
+    * [SignMessage](integrations/deeplinks/provider-methods/signmessage.md)
+  * [Other Methods](integrations/deeplinks/other-methods/README.md)
+    * [Browse](integrations/deeplinks/other-methods/browse.md)
+  * [Handling Sessions](integrations/deeplinks/handling-sessions.md)
+  * [Specifying Redirects](integrations/deeplinks/specifying-redirects.md)
+  * [Encryption](integrations/deeplinks/encryption.md)
+  * [Limitations](integrations/deeplinks/limitations.md)
